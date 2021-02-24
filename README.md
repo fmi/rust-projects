@@ -37,12 +37,9 @@ Ideas for features:
 
 ### Spotiferris
 
-<table>
-    <tr>
-        <td><img src="./demos/rust-spotiferris/image_1.png" /></td>
-        <td><img src="./demos/rust-spotiferris/image_2.png" /></td>
-    </tr>
-</table>
+| The song listing                                      | Editing a song                                        |
+| --                                                    | --                                                    |
+| ![demo image 1](./demos/rust-spotiferris/image_1.png) | ![demo image 2](./demos/rust-spotiferris/image_2.png) |
 
 Source: https://github.com/AndrewRadev/rust-spotiferris
 

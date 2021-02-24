@@ -2,6 +2,9 @@
 
 **TODO: This is a placeholder for now, until (if) we gather up some actual project demos**
 
+- [Games](#games)
+- [Web](#web)
+
 ## Games
 
 ### Rust-shooter

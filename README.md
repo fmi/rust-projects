@@ -1,13 +1,24 @@
 # Rust Projects
 
-**TODO: This is a placeholder for now, until (if) we gather up some actual project demos**
+**TODO: Some of these are placeholders for now, until we gather up enough actual project demos**
 
+- [Desktop](#desktop)
 - [Games](#games)
 - [Web](#web)
 
+## Desktop
+
+### Brainfuck visualizer
+
+Source: https://github.com/vtklisurov/RustProject
+
+![demo](./demos/brainfuck-visualizer/demo.gif)
+
+> This is a Brainfuck interpreter and visualizer, created for my Rust course in uni as a final project. Needs gtk-rs to work.
+
 ## Games
 
-### Rust-shooter
+### Rust-shooter (placeholder)
 
 ![demo](./demos/rust-shooter/demo.gif)
 
@@ -21,11 +32,11 @@ Ideas for features:
 - Power-ups (text with different colors?)
 - Different enemy movements
 
-### Memory game
-
-![demo](./demos/rust-memory-game/demo.gif)
+### Memory game (placeholder)
 
 Source: https://github.com/AndrewRadev/rust-memory-game
+
+![demo](./demos/rust-memory-game/demo.gif)
 
 Another toy game, with animations this time. Demonstrating both how animations could be tackled with GGEZ's built-in loop and how someone might interact with a "tabletop" game rather than a "shooter" game. Though the mouse interaction is, sadly, super hacky.
 
@@ -35,13 +46,13 @@ Ideas for features:
 
 ## Web
 
-### Spotiferris
+### Spotiferris (placeholder)
+
+Source: https://github.com/AndrewRadev/rust-spotiferris
 
 | The song listing                                      | Editing a song                                        |
 | --                                                    | --                                                    |
 | ![demo image 1](./demos/rust-spotiferris/image_1.png) | ![demo image 2](./demos/rust-spotiferris/image_2.png) |
-
-Source: https://github.com/AndrewRadev/rust-spotiferris
 
 The beginnings of a music organization site.
 

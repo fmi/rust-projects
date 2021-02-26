@@ -3,6 +3,7 @@
 **TODO: Some of these are placeholders for now, until we gather up enough actual project demos**
 
 - [Desktop](#desktop)
+- [Distributed](#distributed)
 - [Games](#games)
 - [Web](#web)
 
@@ -15,6 +16,19 @@ Source: https://github.com/vtklisurov/RustProject
 ![demo](./demos/brainfuck-visualizer/demo.gif)
 
 > This is a Brainfuck interpreter and visualizer, created for my Rust course in uni as a final project. Needs gtk-rs to work.
+
+## Distributed
+
+### Copper
+
+Source: https://github.com/TsvetelinKostadinv/Copper
+
+> The aim is to develop the infrastructure for distributed computing with Rust so a heavy task can be split between multiple computers.
+>
+> The application has 2 main components
+>
+> - Server, which accepts connections and sends out tasks
+> - Client which receives the task, performs it and returns a result
 
 ## Games
 

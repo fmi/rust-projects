@@ -2,10 +2,21 @@
 
 **TODO: Some of these are placeholders for now, until we gather up enough actual project demos**
 
+- [Console](#console)
 - [Desktop](#desktop)
 - [Distributed](#distributed)
 - [Games](#games)
 - [Web](#web)
+
+## Console
+
+### Rust Shell
+
+Source: https://github.com/luchev/rush
+
+![demo](./demos/rush/demo.gif)
+
+A working shell that passes all the compatibility tests from the [build-your-own-shell](https://github.com/tokenrove/build-your-own-shell) project.
 
 ## Desktop
 
@@ -31,6 +42,14 @@ Source: https://github.com/TsvetelinKostadinv/Copper
 > - Client which receives the task, performs it and returns a result
 
 ## Games
+
+### 5x5 Tic-tac-toe
+
+Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
+
+![demo](./demos/5x5-tic-tac-toe/demo.gif)
+
+> This is an alternative version of the game Tic Tac Toe, where the board consists of 25 cells (5x5) and in order to win, you need to have four consecutive cells with your mark.
 
 ### Rust-shooter (placeholder)
 

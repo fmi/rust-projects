@@ -1,12 +1,9 @@
 # Rust Projects
 
-**TODO: Some of these are placeholders for now, until we gather up enough actual project demos**
-
 - [Console](#console)
 - [Desktop](#desktop)
 - [Distributed](#distributed)
 - [Games](#games)
-- [Web](#web)
 
 ## Console
 
@@ -51,45 +48,28 @@ Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
 
 > This is an alternative version of the game Tic Tac Toe, where the board consists of 25 cells (5x5) and in order to win, you need to have four consecutive cells with your mark.
 
-### Rust-shooter (placeholder)
+### Tetris
 
-![demo](./demos/rust-shooter/demo.gif)
+Source: https://github.com/vasilp98/Tetris
 
-Source: https://github.com/andrewradev/rust-shooter
+![demo](./demos/tetris/demo.gif)
 
-A toy game in Rust. A pretty standard shooter, not a whole lot of extras.
+### Boids
 
-Ideas for features:
+Source: https://github.com/Ivaylogi98/boids_rust_project
 
-- Levels
-- Power-ups (text with different colors?)
-- Different enemy movements
+![demo](./demos/boids/demo.gif)
 
-### Memory game (placeholder)
+### Digger
 
-Source: https://github.com/AndrewRadev/rust-memory-game
+Source: https://github.com/Zarazen/digger
 
-![demo](./demos/rust-memory-game/demo.gif)
+![demo](./demos/digger/demo.gif)
 
-Another toy game, with animations this time. Demonstrating both how animations could be tackled with GGEZ's built-in loop and how someone might interact with a "tabletop" game rather than a "shooter" game. Though the mouse interaction is, sadly, super hacky.
+### Become_Me
 
-Ideas for features:
+Source: https://github.com/IvayloKiryazov/Become_Me
 
-- An actual game. Right now it's just a board with random cards that flip.
+![demo](./demos/become_me/demo.png)
 
-## Web
-
-### Spotiferris (placeholder)
-
-Source: https://github.com/AndrewRadev/rust-spotiferris
-
-| The song listing                                      | Editing a song                                        |
-| --                                                    | --                                                    |
-| ![demo image 1](./demos/rust-spotiferris/image_1.png) | ![demo image 2](./demos/rust-spotiferris/image_2.png) |
-
-The beginnings of a music organization site.
-
-Ideas for features:
-
-- Uploading an actual mp3 file, parsing its metadata using [rust-id3](https://github.com/polyfloyd/rust-id3) and [rust-id3-image](https://github.com/andrewradev/id3-image)
-- Playing an mp3 file, why not.
+> Become me is a turn-based strategy game with the goal of taking over the map through adapting, picking the right moment, and plotting with and against your fellow players.

@@ -48,11 +48,17 @@ Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
 
 > This is an alternative version of the game Tic Tac Toe, where the board consists of 25 cells (5x5) and in order to win, you need to have four consecutive cells with your mark.
 
-### Tetris
+### Tetris (ggez)
 
 Source: https://github.com/vasilp98/Tetris
 
 ![demo](./demos/tetris/demo.gif)
+
+### Tetris (termion)
+
+Source: https://github.com/nnyx7/tetris-cl
+
+![demo](./demos/tetris-cl/demo.gif)
 
 ### Boids
 

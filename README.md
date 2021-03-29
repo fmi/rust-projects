@@ -15,6 +15,14 @@ Source: https://github.com/luchev/rush
 
 A working shell that passes all the compatibility tests from the [build-your-own-shell](https://github.com/tokenrove/build-your-own-shell) project.
 
+### Yit
+
+Source: https://github.com/yzelova/Yit
+
+![demo](./demos/yit/demo.gif)
+
+A git clone with support for branching, diffs and merges.
+
 ## Desktop
 
 ### Brainfuck visualizer

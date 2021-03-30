@@ -1,5 +1,9 @@
 # Rust Projects
 
+These are links to projects from the ["Programming with Rust"](https://fmi.rust-lang.bg/) course of the Sofia University in Bulgaria.
+
+The elective course includes 23(ish) lectures spread out over 4 months or so. The students have homework assignments to practice Rust, and, at the end, present a project of their own choosing using the language. Here are some of them:
+
 - [Console](#console)
 - [Desktop](#desktop)
 - [Distributed](#distributed)

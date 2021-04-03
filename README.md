@@ -15,7 +15,7 @@ The elective course includes 23(ish) lectures spread out over 4 months or so. Th
 
 Source: https://github.com/luchev/rush
 
-<img src="./demos/rush/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/rush/demo.gif" height="600" title="Demo" />
 
 A working shell that passes all the compatibility tests from the [build-your-own-shell](https://github.com/tokenrove/build-your-own-shell) project.
 
@@ -23,7 +23,7 @@ A working shell that passes all the compatibility tests from the [build-your-own
 
 Source: https://github.com/yzelova/Yit
 
-<img src="./demos/yit/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/yit/demo.gif" height="600" title="Demo" />
 
 A git clone with support for branching, diffs and merges.
 
@@ -33,7 +33,7 @@ A git clone with support for branching, diffs and merges.
 
 Source: https://github.com/vtklisurov/RustProject
 
-<img src="./demos/brainfuck-visualizer/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/brainfuck-visualizer/demo.gif" height="600" title="Demo" />
 
 > This is a Brainfuck interpreter and visualizer, created for my Rust course in uni as a final project. Needs gtk-rs to work.
 
@@ -56,7 +56,7 @@ Source: https://github.com/TsvetelinKostadinv/Copper
 
 Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
 
-<img src="./demos/5x5-tic-tac-toe/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/5x5-tic-tac-toe/demo.gif" height="600" title="Demo" />
 
 > This is an alternative version of the game Tic Tac Toe, where the board consists of 25 cells (5x5) and in order to win, you need to have four consecutive cells with your mark.
 
@@ -64,30 +64,30 @@ Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
 
 Source: https://github.com/vasilp98/Tetris
 
-<img src="./demos/tetris/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/tetris/demo.gif" height="600" title="Demo" />
 
 ### Tetris (termion)
 
 Source: https://github.com/nnyx7/tetris-cl
 
-<img src="./demos/tetris-cl/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/tetris-cl/demo.gif" height="600" title="Demo" />
 
 ### Boids
 
 Source: https://github.com/Ivaylogi98/boids_rust_project
 
-<img src="./demos/boids/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/boids/demo.gif" height="600" title="Demo" />
 
 ### Digger
 
 Source: https://github.com/Zarazen/digger
 
-<img src="./demos/digger/demo.gif" style="max-height: 500px" title="Demo" />
+<img src="./demos/digger/demo.gif" height="600" title="Demo" />
 
 ### Become_Me
 
 Source: https://github.com/IvayloKiryazov/Become_Me
 
-<img src="./demos/become_me/demo.png" style="max-height: 500px" title="Demo" />
+<img src="./demos/become_me/demo.png" height="600" title="Demo" />
 
 > Become me is a turn-based strategy game with the goal of taking over the map through adapting, picking the right moment, and plotting with and against your fellow players.

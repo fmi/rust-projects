@@ -64,7 +64,7 @@ Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
 
 Source: https://github.com/vasilp98/Tetris
 
-![demo](./demos/tetris/demo.gif)
+<img src="./demos/tetris/demo.gif" width="60%" />
 
 ### Tetris (termion)
 

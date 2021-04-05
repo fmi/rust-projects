@@ -13,7 +13,7 @@ The elective course includes 23(ish) lectures spread out over 4 months or so. Th
 
 ### Rust Shell
 
-Source: https://github.com/luchev/rush
+Source: <https://github.com/luchev/rush>
 
 ![demo](./demos/rush/demo.gif)
 
@@ -21,7 +21,7 @@ A working shell that passes all the compatibility tests from the [build-your-own
 
 ### Yit
 
-Source: https://github.com/yzelova/Yit
+Source: <https://github.com/yzelova/Yit>
 
 ![demo](./demos/yit/demo.gif)
 
@@ -31,7 +31,7 @@ A git clone with support for branching, diffs and merges.
 
 ### Brainfuck visualizer
 
-Source: https://github.com/vtklisurov/RustProject
+Source: <https://github.com/vtklisurov/RustProject>
 
 ![demo](./demos/brainfuck-visualizer/demo.gif)
 
@@ -41,7 +41,7 @@ Source: https://github.com/vtklisurov/RustProject
 
 ### Copper
 
-Source: https://github.com/TsvetelinKostadinv/Copper
+Source: <https://github.com/TsvetelinKostadinv/Copper>
 
 > The aim is to develop the infrastructure for distributed computing with Rust so a heavy task can be split between multiple computers.
 >
@@ -54,7 +54,7 @@ Source: https://github.com/TsvetelinKostadinv/Copper
 
 ### 5x5 Tic-tac-toe
 
-Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
+Source: <https://github.com/bhristova/rust/tree/master/project/tic_tac_toe>
 
 ![demo](./demos/5x5-tic-tac-toe/demo.gif)
 
@@ -62,7 +62,7 @@ Source: https://github.com/bhristova/rust/tree/master/project/tic_tac_toe
 
 ### Tetris (ggez)
 
-Source: https://github.com/vasilp98/Tetris
+Source: <https://github.com/vasilp98/Tetris>
 
 <img src="./demos/tetris/demo.gif" width="60%" />
 
@@ -74,19 +74,19 @@ Source: https://github.com/nnyx7/tetris-cl
 
 ### Boids
 
-Source: https://github.com/Ivaylogi98/boids_rust_project
+Source: <https://github.com/Ivaylogi98/boids_rust_project>
 
 ![demo](./demos/boids/demo.gif)
 
 ### Digger
 
-Source: https://github.com/Zarazen/digger
+Source: <https://github.com/Zarazen/digger>
 
 ![demo](./demos/digger/demo.gif)
 
 ### Become_Me
 
-Source: https://github.com/IvayloKiryazov/Become_Me
+Source: <https://github.com/IvayloKiryazov/Become_Me>
 
 ![demo](./demos/become_me/demo.png)
 

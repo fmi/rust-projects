@@ -68,7 +68,7 @@ Source: <https://github.com/vasilp98/Tetris>
 
 ### Tetris (termion)
 
-Source: https://github.com/nnyx7/tetris-cl
+Source: <https://github.com/nnyx7/tetris-cl>
 
 ![demo](./demos/tetris-cl/demo.gif)
 

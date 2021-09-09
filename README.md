@@ -27,6 +27,14 @@ Source: <https://github.com/yzelova/Yit>
 
 A git clone with support for branching, diffs and merges.
 
+### Rufile
+
+Source: <https://github.com/lachaka/rufile>
+
+![demo](./demos/rufile/demo.png)
+
+A console file manager with content previews and a Vim-like command-line.
+
 ## Desktop
 
 ### Brainfuck visualizer

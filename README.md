@@ -99,3 +99,9 @@ Source: <https://github.com/IvayloKiryazov/Become_Me>
 ![demo](./demos/become_me/demo.png)
 
 > Become me is a turn-based strategy game with the goal of taking over the map through adapting, picking the right moment, and plotting with and against your fellow players.
+
+### Tower defense
+
+Source: <https://github.com/genchev99/rust-game>
+
+![demo](./demos/tower_defense/demo.gif)

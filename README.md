@@ -105,3 +105,11 @@ Source: <https://github.com/IvayloKiryazov/Become_Me>
 Source: <https://github.com/genchev99/rust-game>
 
 ![demo](./demos/tower_defense/demo.gif)
+
+### 2-Modded Chess
+
+Source: <https://github.com/rejnhed/2-modded-chess>
+
+![demo](./demos/2-modded-chess/demo.png)
+
+> Chess with King of the hill & 3-Check written in Rust with ggez

@@ -45,6 +45,16 @@ Source: <https://github.com/vtklisurov/RustProject>
 
 > This is a Brainfuck interpreter and visualizer, created for my Rust course in uni as a final project. Needs gtk-rs to work.
 
+### Seam carving implementation
+
+Source: <https://github.com/DannyStoyanov/seam-carving>
+
+| Before                                  | After                                   |
+| ---                                     | ---                                     |
+| ![demo](./demos/seam-carving/demo1.png) | ![demo](./demos/seam-carving/demo2.png) |
+
+> Seam-carving is an algorithm for content-aware image resizing. It allows image to be resized without losing important content from scaling or cropping.
+
 ## Distributed
 
 ### Copper

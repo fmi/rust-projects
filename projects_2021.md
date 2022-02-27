@@ -49,3 +49,11 @@ Source: <https://github.com/KristiyanCvetanov/Blackjack>
 ![demo](./demos/blackjack/demo.gif)
 
 A simple Blackjack game on Rust using the ggez framework. You play 1vs1 against the dealer with standard blackjack rules, but there are added "power-ups" to help you win.
+
+### Flappy Ferris
+
+Source: <https://github.com/geosabev/FMI-Rust-2021-2022/tree/main/flappy-ferris>
+
+![demo](./demos/flappy-ferris/demo.gif)
+
+This game is made with ggez and is based on the famous Flappy Bird that was a total hit a couple of years ago.

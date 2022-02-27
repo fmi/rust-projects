@@ -20,7 +20,7 @@ A git-like version control system.
 
 Source: <https://github.com/NikiNatov/RustyEngine>
 
-[demo](./demos/RustyEngine/demo.mp4)
+https://user-images.githubusercontent.com/124255/155875776-584054bc-ddd7-4365-a98a-c9d568bac555.mp4
 
 A game engine that uses DirectX 11 for rendering as well as Win32 API for its other systems, making it support Windows OS only. Currently implemented features:
 
@@ -38,6 +38,6 @@ A game engine that uses DirectX 11 for rendering as well as Win32 API for its ot
 
 Source: <https://github.com/PavelSarlov/puker>
 
-[demo](./demos/puker/demo.mp4)
+https://user-images.githubusercontent.com/124255/155875841-ef592cc6-eb51-4451-968f-b19b04e4be48.mp4
 
 A simple 2D game made with ggez, inspired by The Binding of Isaac.

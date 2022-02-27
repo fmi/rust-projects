@@ -102,6 +102,14 @@ https://user-images.githubusercontent.com/124255/155875841-ef592cc6-eb51-4451-96
 
 A simple 2D game made with ggez, inspired by The Binding of Isaac.
 
+### Blackjack (2021)
+
+Source: <https://github.com/KristiyanCvetanov/Blackjack>
+
+![demo](./demos/blackjack/demo.gif)
+
+A simple Blackjack game on Rust using the ggez framework. You play 1vs1 against the dealer with standard blackjack rules, but there are added "power-ups" to help you win.
+
 ### 5x5 Tic-tac-toe (2020)
 
 Source: <https://github.com/bhristova/rust/tree/master/project/tic_tac_toe>

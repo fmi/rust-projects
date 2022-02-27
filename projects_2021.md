@@ -41,3 +41,11 @@ Source: <https://github.com/PavelSarlov/puker>
 https://user-images.githubusercontent.com/124255/155875841-ef592cc6-eb51-4451-968f-b19b04e4be48.mp4
 
 A simple 2D game made with ggez, inspired by The Binding of Isaac.
+
+### Blackjack
+
+Source: <https://github.com/KristiyanCvetanov/Blackjack>
+
+![demo](./demos/blackjack/demo.gif)
+
+A simple Blackjack game on Rust using the ggez framework. You play 1vs1 against the dealer with standard blackjack rules, but there are added "power-ups" to help you win.

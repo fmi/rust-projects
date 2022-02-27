@@ -1,8 +1,4 @@
-# Rust Projects
-
-These are links to projects from the ["Programming with Rust"](https://fmi.rust-lang.bg/) course of the Sofia University in Bulgaria.
-
-The elective course includes 23(ish) lectures spread out over 4 months or so. The students have homework assignments to practice Rust, and, at the end, present a project of their own choosing using the language. Here are some of them:
+# Rust Projects from Semester 2020/2021
 
 - [Console](#console)
 - [Desktop](#desktop)
@@ -11,7 +7,7 @@ The elective course includes 23(ish) lectures spread out over 4 months or so. Th
 
 ## Console
 
-### Rust Shell (2020)
+### Rust Shell
 
 Source: <https://github.com/luchev/rush>
 
@@ -19,7 +15,7 @@ Source: <https://github.com/luchev/rush>
 
 A working shell that passes all the compatibility tests from the [build-your-own-shell](https://github.com/tokenrove/build-your-own-shell) project.
 
-### Yit (2020)
+### Yit
 
 Source: <https://github.com/yzelova/Yit>
 
@@ -27,7 +23,7 @@ Source: <https://github.com/yzelova/Yit>
 
 A git clone with support for branching, diffs and merges.
 
-### Rufile (2020)
+### Rufile
 
 Source: <https://github.com/lachaka/rufile>
 
@@ -37,7 +33,7 @@ A console file manager with content previews and a Vim-like command-line.
 
 ## Desktop
 
-### Brainfuck visualizer (2020)
+### Brainfuck visualizer
 
 Source: <https://github.com/vtklisurov/RustProject>
 
@@ -45,7 +41,7 @@ Source: <https://github.com/vtklisurov/RustProject>
 
 > This is a Brainfuck interpreter and visualizer, created for my Rust course in uni as a final project. Needs gtk-rs to work.
 
-### Seam carving implementation (2020)
+### Seam carving implementation
 
 Source: <https://github.com/DannyStoyanov/seam-carving>
 
@@ -57,7 +53,7 @@ Source: <https://github.com/DannyStoyanov/seam-carving>
 
 ## Distributed
 
-### Copper (2020)
+### Copper
 
 Source: <https://github.com/TsvetelinKostadinv/Copper>
 
@@ -70,7 +66,7 @@ Source: <https://github.com/TsvetelinKostadinv/Copper>
 
 ## Games
 
-### 5x5 Tic-tac-toe (2020)
+### 5x5 Tic-tac-toe
 
 Source: <https://github.com/bhristova/rust/tree/master/project/tic_tac_toe>
 
@@ -78,31 +74,31 @@ Source: <https://github.com/bhristova/rust/tree/master/project/tic_tac_toe>
 
 > This is an alternative version of the game Tic Tac Toe, where the board consists of 25 cells (5x5) and in order to win, you need to have four consecutive cells with your mark.
 
-### Tetris with ggez (2020)
+### Tetris with ggez
 
 Source: <https://github.com/vasilp98/Tetris>
 
 <img src="./demos/tetris/demo.gif" width="60%" />
 
-### Tetris with termion (2020)
+### Tetris with termion
 
 Source: <https://github.com/nnyx7/tetris-cl>
 
 ![demo](./demos/tetris-cl/demo.gif)
 
-### Boids (2020)
+### Boids
 
 Source: <https://github.com/Ivaylogi98/boids_rust_project>
 
 ![demo](./demos/boids/demo.gif)
 
-### Digger (2020)
+### Digger
 
 Source: <https://github.com/Zarazen/digger>
 
 ![demo](./demos/digger/demo.gif)
 
-### Become_Me (2020)
+### Become_Me
 
 Source: <https://github.com/IvayloKiryazov/Become_Me>
 
@@ -110,13 +106,13 @@ Source: <https://github.com/IvayloKiryazov/Become_Me>
 
 > Become me is a turn-based strategy game with the goal of taking over the map through adapting, picking the right moment, and plotting with and against your fellow players.
 
-### Tower defense (2020)
+### Tower defense
 
 Source: <https://github.com/genchev99/rust-game>
 
 ![demo](./demos/tower_defense/demo.gif)
 
-### 2-Modded Chess (2020)
+### 2-Modded Chess
 
 Source: <https://github.com/rejnhed/2-modded-chess>
 

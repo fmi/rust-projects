@@ -57,3 +57,11 @@ Source: <https://github.com/geosabev/FMI-Rust-2021-2022/tree/main/flappy-ferris>
 ![demo](./demos/flappy-ferris/demo.gif)
 
 This game is made with ggez and is based on the famous Flappy Bird that was a total hit a couple of years ago.
+
+### Jet Fighter
+
+Source: <https://github.com/AngelMarinski/FMI-Rust/tree/main/Jet-Fighter>
+
+https://user-images.githubusercontent.com/77447043/155611425-24e76ffa-a258-45a3-bef0-1f5628e571d7.mp4
+
+Jet Fighter is an old arcade game played by two. The winner is decided by that who is going to shot his opponenet 5 times first.

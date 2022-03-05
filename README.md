@@ -135,7 +135,15 @@ Source: <https://github.com/AngelMarinski/FMI-Rust/tree/main/Jet-Fighter>
 
 https://user-images.githubusercontent.com/77447043/155611425-24e76ffa-a258-45a3-bef0-1f5628e571d7.mp4
 
-Jet Fighter is an old arcade game played by two. The winner is decided by that who is going to shot his opponenet 5 times first.
+Jet Fighter is an old arcade game played by two. The winner is whoever shoots their opponent 5 times first.
+
+### Rust-snek (2021)
+
+Source: <https://github.com/teodorask/rust-snek>
+
+https://user-images.githubusercontent.com/124255/156885872-b1158347-518e-4954-9b09-e6e8f877ce02.mp4
+
+> You're playing as a snake livng on a small hexagonal island in the The Big Void. You're lonely and hungry. There's no one else there with you, but there's always exactly one apple. You're goal is to roam the land and eat as many as you can. But beware of the island edges - once you fall you're journey's over! You hope that once you become bigger and stronger you could finally leave. But you'll soon find out that that has its consequences too...
 
 ### 5x5 Tic-tac-toe (2020)
 

@@ -19,6 +19,17 @@ Source: <https://github.com/Stuksi/rgit>
 
 A git-like version control system.
 
+### Coolio (2021)
+
+Source: <https://github.com/pepilipep/coolio>
+
+![demo](./demos/coolio/demo.gif)
+
+coolio is a CLI tool which enables some extra features for your Spotify. Features:
+
+- Automated playlists for artists
+- Listen history tracking
+
 ### Rust Shell (2020)
 
 Source: <https://github.com/luchev/rush>

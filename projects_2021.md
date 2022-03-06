@@ -90,3 +90,11 @@ https://user-images.githubusercontent.com/124255/156885872-b1158347-518e-4954-9b
 Source: <https://github.com/secretuser234/connectfour>
 
 https://user-images.githubusercontent.com/124255/156896981-8a20e0c0-8dda-45c7-a504-41de001f01cb.mp4
+
+### Type racer
+
+Source: <https://github.com/Gordss/type_racer>
+
+https://user-images.githubusercontent.com/124255/156929615-f714be53-53b2-4ae4-8b72-5575782d30c9.mp4
+
+> Words are comming from the left side of the screen and go to the right. The player should write the incoming words without typo and earn points. If you leave a word to get to the right side of the screen you lose 1 life. If you lose all of your lifes -> Game Over :/. The question is how far can you get and how much points you can earn? :)

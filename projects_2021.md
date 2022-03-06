@@ -105,4 +105,4 @@ Source: <https://github.com/EnevMk/Extreme-tetris>
 
 https://user-images.githubusercontent.com/124255/156939358-2b2997ef-40dd-494f-ae51-72327b46bad7.mp4
 
-A little tetris-like game with some tweaks and additional logic, written in Rust 
+A little tetris-like game with some tweaks and additional logic, written in Rust.

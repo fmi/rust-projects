@@ -159,6 +159,14 @@ https://user-images.githubusercontent.com/124255/156929615-f714be53-53b2-4ae4-8b
 
 > Words are coming from the left side of the screen and go to the right. The player should write the incoming words without typo and earn points. If you leave a word to get to the right side of the screen you lose 1 life. If you lose all of your lives -> Game Over :/. The question is how far can you get and how much points you can earn? :)
 
+### Extreme tetris (2021)
+
+Source: <https://github.com/EnevMk/Extreme-tetris>
+
+https://user-images.githubusercontent.com/124255/156939358-2b2997ef-40dd-494f-ae51-72327b46bad7.mp4
+
+A little tetris-like game with some tweaks and additional logic, written in Rust.
+
 ### 5x5 Tic-tac-toe (2020)
 
 Source: <https://github.com/bhristova/rust/tree/master/project/tic_tac_toe>

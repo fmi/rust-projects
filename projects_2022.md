@@ -17,6 +17,8 @@ Interpreter for a Custom Functional Programming language with lazy evaluation
 
 Source: <https://github.com/nixann/typing-tutor>
 
+https://user-images.githubusercontent.com/124255/224551635-2c0cc956-76df-471f-9016-e91f765f784f.mov
+
 ### Solitaire
 
 Source: <https://github.com/YondaimeHokage7/Solitaire>

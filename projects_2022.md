@@ -9,6 +9,8 @@
 
 Source: <https://github.com/NikolayDPaev/lambda-script>
 
+https://user-images.githubusercontent.com/124255/226177720-b5d824de-baa7-4ad8-be5b-28664aa2f31a.mp4
+
 Interpreter for a Custom Functional Programming language with lazy evaluation
 
 ## Games

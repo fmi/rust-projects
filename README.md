@@ -11,6 +11,14 @@ The elective course includes 23(ish) lectures spread out over 4 months or so. Th
 
 ## Console
 
+### lambda-script (2022)
+
+Source: <https://github.com/NikolayDPaev/lambda-script>
+
+https://user-images.githubusercontent.com/124255/226177720-b5d824de-baa7-4ad8-be5b-28664aa2f31a.mp4
+
+Interpreter for a Custom Functional Programming language with lazy evaluation
+
 ### Rgit (2021)
 
 Source: <https://github.com/Stuksi/rgit>
@@ -110,6 +118,34 @@ Source: <https://github.com/TsvetelinKostadinv/Copper>
 > - Client which receives the task, performs it and returns a result
 
 ## Games
+
+### Domino game (2022)
+
+Source: <https://github.com/VladimirRadev/domino_game>
+
+https://user-images.githubusercontent.com/35682499/216770243-ead82af7-3158-4964-b7d4-fc9fbb1dbb0d.mp4
+
+> A 2D game imitating <https://galactical.itch.io/the-boneyard> created with the ggez library
+
+### Solitaire (2022)
+
+Source: <https://github.com/YondaimeHokage7/Solitaire>
+
+![demo](./demos/solitaire/demo.gif)
+
+### Tank game (2022)
+
+Source: <https://gitlab.com/ybi-portfolio/tank-game>
+
+https://user-images.githubusercontent.com/124255/224557348-41cc9fc1-39d7-47b6-be60-cfb7b77916d7.mp4
+
+> A multiplayer(websocket-based) top-down shooter game with tanks. Bots automatically spawn if there are not enough players in the room. The twist is that whenever you kill someone, you steal their score and your health gets fully restored.
+
+### Typing tutor (2022)
+
+Source: <https://github.com/nixann/typing-tutor>
+
+https://user-images.githubusercontent.com/124255/224551635-2c0cc956-76df-471f-9016-e91f765f784f.mov
 
 ### Puker (2021)
 

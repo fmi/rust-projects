@@ -11,6 +11,14 @@ The elective course includes 23(ish) lectures spread out over 4 months or so. Th
 
 ## Console
 
+### tonkobali (2024)
+
+Source: <https://gitlab.com/Syndamia/tonkobali>
+
+https://github.com/user-attachments/assets/40acc0c0-0399-467c-a427-afb0321b9cc5
+
+A small [SUBLEQ](https://en.wikipedia.org/wiki/One-instruction_set_computer#Subtract_and_branch_if_less_than_or_equal_to_zero)-based virtual machine and assembler for it.
+
 ### lambda-script (2022)
 
 Source: <https://github.com/NikolayDPaev/lambda-script>
